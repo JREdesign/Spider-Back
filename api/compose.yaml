@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        - NODE_VERSION=21.5.0
+    image: jreugercios/api:latest
+    env_file: 
+      - .env
+    ports:
+      - 3004:3004

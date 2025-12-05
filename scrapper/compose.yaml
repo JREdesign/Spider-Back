@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  scrapper:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        - NODE_VERSION=21.5.0
+    image: jreugercios/scrapper:latest
+    env_file: 
+      - .env
+    ports:
+      - 3003:3003

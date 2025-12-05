@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  aframe-server:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        - NODE_VERSION=21.5.0
+    image: jreugercios/aframe-server:latest
+    env_file: 
+      - .env
+    ports:
+      - 3006:3006
