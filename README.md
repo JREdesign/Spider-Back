@@ -1,4 +1,4 @@
-# 💼 Rastreador de Empleo | Factoría F5 | FRONTEND
+# 💼 Rastreador de Empleo | Factoría F5 | Backend
 [![CircleCI](https://circleci.com/gh/impress/impress.js.svg?style=svg)](https://circleci.com/gh/impress/impress.js)
 
 <p align="center">
