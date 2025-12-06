@@ -8,7 +8,7 @@
 # 🕷️ El Rastreador: Proyecto final DWFS + TI
 
 
-Bienvenido al repositorio del proyecto final del Bootcamp Desarrollo Web Full Stack + Tecnologías Inmersivas.
+Bienvenido al repositorio del proyecto final del Bootcamp Desarrollo Web Full Stack + Tecnologías Inmersivas.<br>
 (Nota: La carpeta design con los originales del proyecto estan guardadas a parte)
 ## 🧭 Características Generales
 
