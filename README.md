@@ -9,7 +9,7 @@
 
 
 Bienvenido al repositorio del proyecto final del Bootcamp Desarrollo Web Full Stack + Tecnologías Inmersivas.
-
+(Nota: La carpeta design con los originales del proyecto estan guardadas a parte)
 ## 🧭 Características Generales
 
 - **Tecnologías Utilizadas:** 
